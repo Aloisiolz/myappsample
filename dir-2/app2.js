@@ -1,0 +1,1 @@
+console.log("Diretorio 2");
